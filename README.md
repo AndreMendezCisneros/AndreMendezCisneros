@@ -80,16 +80,6 @@ Pasiones:
 
 ---
 
-### ⌨️ Animación de presentación
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Estudiante+de+Sistemas+e+Innovador;Apasionado+por+la+automatizaci%C3%B3n+y+la+tecnolog%C3%ADa;Bienvenido+a+mi+GitHub!+🤖" alt="Typing SVG" />
-</p>
-
----
-
-### 🖼️ Imagen final
-
 <p align="center">
   <img src="https://i.pinimg.com/736x/b5/57/52/b557529527256e9507cf6eb2b3cfb2ea.jpg" alt="Gracias por visitar mi perfil" width="600"/>
 </p>

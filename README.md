@@ -11,8 +11,7 @@
 ### 🧠 Sobre mí
 
 ```yaml
-Nombre: André Méndez Cisneros
-Ubicación: Ayacucho, Perú
+Nombre: Andre Méndez 
 Carrera: Ingeniería de Sistemas de la Información
 Pasiones:
   - Crear soluciones tecnológicas desde cero
@@ -52,7 +51,7 @@ Pasiones:
 - 🤖 **Robots Arduino**: Sensores, motores paso a paso y automatización de tareas.
 - 📲 **App de Turismo**: Kotlin + Firebase + notificaciones + venta de paquetes turísticos.
 - 🧠 **Sistema de horarios académicos**: Automatización para instituciones educativas.
-- 💻 **Sitios web**: Frontend con React y Laravel, backend con MySQL y XAMPP.
+- 💻 **Sitios web**: Frontend con React, backend con MySQL y XAMPP.
 
 ---
 
@@ -68,7 +67,6 @@ Pasiones:
 ### 📨 Contáctame
 
 - ✉️ [raiosandre@gmail.com](mailto:raiosandre@gmail.com)
-- 🌐 (Agrega tu LinkedIn o portafolio si lo deseas)
 
 ---
 

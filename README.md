@@ -1,16 +1,14 @@
-## Hi there 👋
+¡Hola! 👋 Soy André Méndez
+🎓 Estudiante de Ingeniería de Sistemas
+💼 Prácticas en automatización y desarrollo web
+🌱 Actualmente aprendiendo: Firebase, Kotlin, Laravel
 
-<!--
-**AndreMendezCisneros/AndreMendezCisneros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚒️ Tecnologías
+Python | Arduino | JavaScript
+HTML/CSS | Laravel | MySQL
+Firebase | GIT | Linux
+📊 Estadísticas de GitHub
+Andre's GitHub stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contáctamo
+📧 Correo electrónico: raiosandre@gmail.com

@@ -91,7 +91,7 @@ Pasiones:
 ### 🖼️ Imagen final
 
 <p align="center">
-  <img src="https://i.imgur.com/IA1B9Pe.png" alt="Gracias por visitar mi perfil" width="600"/>
+  <img src="[https://i.imgur.com/IA1B9Pe.png](https://i.pinimg.com/736x/b5/57/52/b557529527256e9507cf6eb2b3cfb2ea.jpg)" alt="Gracias por visitar mi perfil" width="600"/>
 </p>
 
 ---

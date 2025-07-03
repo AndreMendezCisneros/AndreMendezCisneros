@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy André Méndez</h1>
+<h1 align="center">¡Hola! 👋 Soy Andre Mendez</h1>
 <p align="center">
   🎓 Estudiante de Ingeniería de Sistemas <br>
   🔧 Apasionado por la automatización, electrónica y desarrollo web <br>

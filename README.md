@@ -1,5 +1,5 @@
 
-<h1 align="center">¡Hola! 👋 Soy André Méndez Cisneros</h1>
+<h1 align="center">¡Hola! 👋 Soy André Mendez Cisneros</h1>
 <p align="center">
   👨‍💻 Estudiante de Ingeniería de Sistemas de la Información <br>
   🤖 Creador de robots y controladores con Arduino <br>

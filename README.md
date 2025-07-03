@@ -55,15 +55,6 @@ Pasiones:
 
 ---
 
-### 📈 Mis estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreMendezCisneros&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMendezCisneros&layout=compact&theme=radical" height="170"/>
-</p>
-
----
-
 ### 📨 Contáctame
 
 - ✉️ [raiosandre@gmail.com](mailto:raiosandre@gmail.com)
@@ -75,8 +66,6 @@ Pasiones:
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
-
----
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/b5/57/52/b557529527256e9507cf6eb2b3cfb2ea.jpg" alt="Gracias por visitar mi perfil" width="600"/>

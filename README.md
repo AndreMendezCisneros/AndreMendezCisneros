@@ -1,7 +1,7 @@
 
 <h1 align="center">¡Hola! 👋 Soy André Mendez Cisneros</h1>
 <p align="center">
-  👨‍💻 Estudiante de Ingeniería de Sistemas de la Información <br>
+  👨‍💻 Ingeniería de Sistemas de la Información <br>
   🤖 Creador de robots y controladores con Arduino <br>
   💻 Apasionado por la programación, automatización y el desarrollo de software
 </p>
